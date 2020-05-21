@@ -86,7 +86,10 @@ header a:hover{
     background: url("../img") no-repeat 
      ;
     text-align:center;
-    color:#3c3d49
+    color:#2b305e;
+    font-weight: bold;
+    font-size: medium;
+    
 
 }
 
